@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Percent Calculator</string>
+    <string name="text_hint">Introduce el número.</string>
+    <string name="helper_Text_required">*Debe contener al menos un número.</string>
+    <string name="text_Error_empty">"Debes de llenar el campo. "</string>
+    <string name="title">Calculador de porcentaje</string>
+    <string name="textResult">Tu resultado aparecerá aquí</string>
+    <string name="textbuttonadd">Insertar</string>
+    <string name="textbuttondelete">Eliminar</string>
+    <string name="text_cb">Porcentaje detallado</string>
+    <string name="footerName">© Collectick 2021 | All rights reserved</string>
+    <string name="text_total">Total: En espera.</string>
+    <string name="text_sintax_error">Hay un error sintáctico</string>
+    <string name="title_percent2">Porcentaje de un número</string>
+    <string name="text_number">Número</string>
+    <string name="text_percent">Porcentaje</string>
+    <string name="resultText2">Resultado: El ... % de ... es: ...</string>
+    <string name="buttonConfirm">Calcular porcentaje</string>
+</resources>
